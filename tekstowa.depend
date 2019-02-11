@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1545950789 source:/home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/main.cpp
+	<iostream>
+	"Character.h"
+	"Armor.h"
+	"Weapon.h"
+	"Text.h"
+	"Lokacje.h"
+	"Fabula.h"
+
+1549891634 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Text.h
+
+1518372782 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Character.h
+	<iomanip>
+	"Armor.h"
+	"Weapon.h"
+
+1518116063 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Armor.h
+
+1518301131 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Weapon.h
+
+1549891674 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Fabula.h
+	<iomanip>
+	"Character.h"
+	"Armor.h"
+	"Text.h"
+	"Weapon.h"
+	"Lokacje.h"
+
+1518101632 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Funkcje.h
+	"Interakcja.h"
+
+1518096217 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Funkcje.cpp
+	<iostream>
+
+1518096217 source:/home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Funkcje.cpp
+	<iostream>
+
+1518373636 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Interakcja.h
+
+1518371893 /home/kklimczu/STUDIA/Projekty/GRY/Tekstowa/tekstowa/Lokacje.h
+	"Interakcja.h"
+	"Character.h"
+	"Armor.h"
+	"Text.h"
+	"Weapon.h"
+
